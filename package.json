@@ -1,6 +1,6 @@
 {
   "name": "@chatengineers/tailwind-livechat-preset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Tailwind CSS preset to bring LiveChat design tokens.",
   "main": "index.js",
   "scripts": {},
