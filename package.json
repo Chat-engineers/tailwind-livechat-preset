@@ -8,9 +8,15 @@
     "tailwind",
     "livechat"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "@livechat/design-system-colors": "^2.0.0"
+  },
+  "devDependencies": {
+    "release-it": "^14.14.0"
   }
 }
